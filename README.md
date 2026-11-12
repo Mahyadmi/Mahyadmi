@@ -19,12 +19,12 @@ Software developer based in the **United Kingdom**. I build cross-platform apps 
 
 ### Tech I work with
 
-**Languages:** C# · Python · JavaScript · HTML/CSS · SQL
-**Frameworks:** .NET MAUI · FastAPI
-**Cloud:** AWS Lambda · S3 · DynamoDB · SES · API Gateway · CloudWatch · AWS SAM (infrastructure as code)
-**Tools:** Git · GitHub Actions · Docker · SQLite · xUnit · pytest
-**Design:** UI/UX design and prototyping
-**Ways of working:** Agile / Scrum · CI/CD · automated testing
+- **Languages:** C# · Python · JavaScript · HTML/CSS · SQL
+- **Frameworks:** .NET MAUI · FastAPI
+- **Cloud:** AWS Lambda · S3 · DynamoDB · SES · API Gateway · CloudWatch · AWS SAM (infrastructure as code)
+- **Tools:** Git · GitHub Actions · Docker · SQLite · xUnit · pytest
+- **Design:** UI/UX design and prototyping
+- **Ways of working:** Agile / Scrum · CI/CD · automated testing
 
 ### Get in touch
 
